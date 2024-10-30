@@ -6,7 +6,7 @@ yalmip('clear')
 addpath("Packages\");
 %addpath("Examples\")
 
-datapath = '';
+datapath = 'data\';
 savepath = 'results/';
 name     = {'G1_n20'};
 idx        = 1;
