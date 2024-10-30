@@ -6,7 +6,7 @@ yalmip('clear')
 addpath("Packages\");
 %addpath("Examples\")
 
-datapath = 'SVM_';
+datapath = 'data\SVM_';
 savepath = 'results/';
 name     = {'1','2','3'};
 idx      = 3;
