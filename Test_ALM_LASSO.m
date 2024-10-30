@@ -5,7 +5,7 @@ yalmip('clear')
 
 addpath("Packages\");
 
-datapath = 'LASSO_';
+datapath = 'data\LASSO_';
 savepath = 'results/LASSO_';
 name     = {'1','2','3'}; %lp_afiro %lp_blend
 idx      =3;
